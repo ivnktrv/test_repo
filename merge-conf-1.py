@@ -1,2 +1,2 @@
 i = 2
-print(f'Num: {i}')
+print(f'Number: {i}')
